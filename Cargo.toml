@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 lopdf = "0.35.0"
+poppler = "0.6.0"
